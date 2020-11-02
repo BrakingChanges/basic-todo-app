@@ -1,0 +1,16 @@
+{
+  "name": "basic-todo-app",
+  "version": "1.0.0",
+  "description": "Basic Todo App",
+  "main": "index.js",
+  "repository": "https://github.com/Tech-Helper503/basic-todo-app",
+  "author": "Tech Helper<helpertech83@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@snowpack/plugin-dotenv": "^2.0.4",
+    "@snowpack/plugin-typescript": "^1.1.0",
+    "jest": "^26.6.2",
+    "snowpack": "^2.16.1"
+  }
+}
